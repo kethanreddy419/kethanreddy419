@@ -20,7 +20,9 @@ I'm Kethan Reddy, a Software Engineer and Finance enthusiast with a passion for 
 - **Tools**: React, Node.js, SQL, Git
 
 ### ⚡ Fun Fact
-I love merging tech with nature and creating solutions that make a difference.
+- I love merging tech with nature and creating solutions that make a difference.
+- Love to watch Anime and keep up with Soccer
+
 
 ### 📫 Connect with Me
 - **Email**: kethanreddy419@gmail.com
